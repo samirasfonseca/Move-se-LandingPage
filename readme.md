@@ -20,7 +20,7 @@ Uma site Fitness Online com dicas, treinos e conteúdos sobre alimentação equi
 ---
 
 ## 🌍 Link do Projeto Online
-🔗 [Acesse o site aqui](https://seu-link-do-site.com)
+🔗 [Acesse o site aqui](https://samirasfonseca.github.io/Move-se-LandingPage/)
 
 ---
 
