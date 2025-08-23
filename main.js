@@ -1,7 +1,6 @@
- const toggle = document.getElementById("menu-toggle");
-  const links = document.querySelector(".nav-links");
-
-  toggle.addEventListener("click", () => {
-    links.classList.toggle("show");
-  });
-
+/*------------------------------- Menu Hmaburguer -----------------------------------------*/
+function toggleMenu() {
+  if (window.innerWidth <= 768) {
+    document.getElementById("navbar").classList.toggle("active");
+  }
+}
