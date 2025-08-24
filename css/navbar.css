@@ -27,7 +27,7 @@
 }
 
 .nav-links {
-  display: flex;
+  display: none;
   align-items: center;
   flex-direction: column;
   background-color: #283618f6;
